@@ -6,7 +6,7 @@ namespace composition3_csharp
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Chamaaaa");
         }
     }
 }

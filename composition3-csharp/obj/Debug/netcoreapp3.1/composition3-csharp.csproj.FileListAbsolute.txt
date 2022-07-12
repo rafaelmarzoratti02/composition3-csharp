@@ -1,0 +1,14 @@
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.exe
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.deps.json
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.runtimeconfig.json
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.runtimeconfig.dev.json
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.dll
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\bin\Debug\netcoreapp3.1\composition3-csharp.pdb
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.csproj.AssemblyReference.cache
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.AssemblyInfoInputs.cache
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.AssemblyInfo.cs
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.csproj.CoreCompileInputs.cache
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.dll
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.pdb
+C:\Users\rafael.marzoratti\source\repos\composition3-csharp\composition3-csharp\obj\Debug\netcoreapp3.1\composition3-csharp.genruntimeconfig.cache
