@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace composition3_csharp.Entities
 {
@@ -14,7 +15,7 @@ namespace composition3_csharp.Entities
         {
         }
 
-        public OrderItem(int quantity,double price, Product product)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
@@ -23,9 +24,18 @@ namespace composition3_csharp.Entities
 
         public double SubTotal()
         {
-            double sum = Quantity * Price;
-            return sum;
+            return Price * Quantity;
         }
 
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }
